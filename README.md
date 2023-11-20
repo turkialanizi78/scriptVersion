@@ -1,2 +1,1 @@
-# scriptVersion
-wwr_adminPanal version
+3.1.4
